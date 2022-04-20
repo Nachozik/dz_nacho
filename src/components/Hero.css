@@ -1,0 +1,10 @@
+#dz {
+    font-size: 100px;
+    background-color: red;
+}
+#crossNnulls {
+    display: flex;
+}
+.click {
+    background-color: gray;
+}
